@@ -22,7 +22,7 @@ namespace Volcanit.Items
 			item.useAnimation = 60;
 			item.crit = -4;
 			item.useStyle = 1;
-			item.knockBack = 20000000000000000;
+			item.knockBack = 20; // Max of 20 Jafss SMH - KCG
 			item.value = 100000;
 			item.rare = 8;
 			item.UseSound = SoundID.Item1;
